@@ -58,7 +58,6 @@ const AppEssentialsWrapper = ({ children }) => {
       window.history.pushState({}, "", utils.file.BASE_URL);
 
     utils.file.loadJSON("/data/settings.json").then((response) => {
-        console.log(response)
       _applyDeveloperSettings(response);
       setSettings(response);
 
