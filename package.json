@@ -8,6 +8,7 @@
         "build": "vite build",
         "lint": "eslint .",
         "preview": "vite preview",
+        "start": "vite",
         "resume:make:article": "node npm/npm-resume-new-article.js",
         "resume:clear": "node npm/npm-resume-clear.js"
     },
