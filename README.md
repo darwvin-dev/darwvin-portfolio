@@ -1,4 +1,4 @@
-# [<img src="docs/assets/logo.png"> React Portfolio](https://ryanbalieiro.github.io/react-portfolio-template/) 
+# [<img src="docs/assets/logo.png"> Darwvin Portfolio](https://ryanbalieiro.github.io/react-portfolio-template/) 
 
 A sleek, futuristic portfolio template for developers – built with **React** and **Bootstrap 5**.
 
