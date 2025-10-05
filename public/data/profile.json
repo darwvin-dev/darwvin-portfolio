@@ -1,0 +1,26 @@
+{
+    "name": "Mohammad Bagher Amini",
+
+    "profilePictureUrl": "images/pictures/profile-picture.jpg",
+    "resumePdfUrl": "",
+
+    "statusCircleVisible": true,
+    "statusCircleVariant": "available",
+    "statusCircleHoverMessage": "status_message_available_for_freelance",
+
+    "locales": {
+        "en": {
+            "localized_name": "Mohammad Bagher Amini",
+            "localized_name_stylized": " [[Mohammad Bagher {{Amini}}]]",
+            "status_message_available_for_freelance": "Available for freelance!",
+            "roles": [
+                "Backend Developer",
+                "Frontend Developer",
+                "DevOps Engineer",
+                "UX Designer"
+            ],
+            "name_pronunciation_ipa": "/Mohammad Bagher/",
+            "name_pronunciation_audio_url": "audio/english-name-pronunciation.mp3"
+        }
+    }
+}
