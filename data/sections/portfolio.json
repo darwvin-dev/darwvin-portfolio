@@ -1,0 +1,260 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Portfolio",
+                "title_short_nav": "Portfolio",
+                "title_long_prefix": "Take a look at",
+                "title_long": "My {{Portfolio}}"
+            }
+        }
+    },
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticlePortfolio",
+            "locales": {
+                "en": {
+                    "category_all": "All",
+                    "category_apps": "Apps",
+                    "category_web": "Web",
+                    "category_utilities": "Utilities"
+                }
+            },
+            "settings": {
+                "categorize_by": [
+                    "category_apps",
+                    "category_web",
+                    "category_utilities"
+                ],
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "categoryId": "category_web",
+                    "img": "images/pictures/maadiranshops.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://maadiranshops.com/",
+                                "tooltipString": "open_website",
+                                "faIcon": "fa-solid fa-link"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Maadiran Shops",
+                            "text": "E-commerce platform with a professional dashboard. Backend built on {{Yii2}}, frontend on {{Next.js}} (TypeScript). Dynamic content management, product/catalog flows, and analytics.",
+                            "tags": [
+                                "Yii2",
+                                "Next.js",
+                                "TypeScript",
+                                "Dashboard"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "categoryId": "category_web",
+                    "img": "images/pictures/portfolio-project-logo-2.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "http://gpangiaartworks.com/",
+                                "tooltipString": "open_website",
+                                "faIcon": "fa-solid fa-link"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Gpangia Artworks",
+                            "text": "Content-rich website built with {{Next.js}} and {{Node.js}}. Features a custom React admin dashboard to manage pages, media, and dynamic sections.",
+                            "tags": [
+                                "Next.js",
+                                "Node.js",
+                                "React",
+                                "CMS",
+                                "Dashboard"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "categoryId": "category_web",
+                    "img": "images/pictures/lgmultiservice.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://lgmultiservice.it/",
+                                "tooltipString": "open_website",
+                                "faIcon": "fa-solid fa-link"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "LG Multiservice (Milan)",
+                            "text": "Full Next.js build (frontend & backend). Admin panel lets the client update all images and content. Set up {{Google Ads}} tracking and funnels.",
+                            "tags": [
+                                "Next.js",
+                                "Full-Stack",
+                                "CMS",
+                                "Google Ads"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "categoryId": "category_web",
+                    "img": "images/pictures/1mobility.png",
+                    "faIcon": "",
+                    "faIconColors": {
+                        "bg": "",
+                        "fill": ""
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://parcheggio-san-giovanni-re-di-roma-via-alba.parcheggiorediroma-1mobility.it/",
+                                "tooltipString": "open_website",
+                                "faIcon": "fa-solid fa-link"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "1Mobility Parking – Rome (3 Projects)",
+                            "text": "Frontends in {{React}}, admin panel in {{Vue}} (extended an existing codebase), and {{Node.js}} backend. Multi-site setup for parking services in Rome.",
+                            "tags": [
+                                "React",
+                                "Vue",
+                                "Node.js",
+                                "Multi-site"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "categoryId": "category_web",
+                    "img": "images/pictures/pishgamanapply.png",
+                    "faIcon": "fa-solid fa-globe",
+                    "faIconColors": {
+                        "bg": "#222",
+                        "fill": "#EEE"
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://pishgamanapply.com/",
+                                "tooltipString": "open_website",
+                                "faIcon": "fa-solid fa-link"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "pishgamanapply.com",
+                            "text": "",
+                            "tags": []
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "categoryId": "category_web",
+                    "img": "",
+                    "faIcon": "fa-solid fa-globe",
+                    "faIconColors": {
+                        "bg": "#222",
+                        "fill": "#EEE"
+                    },
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://tehranvisa.com/",
+                                "tooltipString": "open_website",
+                                "faIcon": "fa-solid fa-link"
+                            }
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "tehranvisa.com",
+                            "text": "",
+                            "tags": []
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "categoryId": "category_apps",
+                    "img": "images/pictures/blackjack.png",
+                    "faIcon": "fa-solid fa-spade",
+                    "faIconColors": {
+                        "bg": "#1E1E1E",
+                        "fill": "#F1C40F"
+                    },
+                    "preview": {
+                        "links": [],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Blackjack Game Application",
+                            "text": "Developed a cross-platform Blackjack game using <b>React Native</b> and <b>Expo</b>. Integrated real-time gameplay with <b>WebSocket</b> and delivered a smooth, responsive user experience across devices.",
+                            "tags": [
+                                "React Native",
+                                "Expo",
+                                "WebSocket",
+                                "Game"
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

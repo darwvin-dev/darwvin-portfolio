@@ -1,0 +1,73 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Contact",
+                "title_short_nav": "Contact",
+                "title_long_prefix": "Don't hesitate to",
+                "title_long": "{{Contact}} Me"
+            },
+            "es": {
+                "title_short": "Contacto",
+                "title_short_nav": "Contacto",
+                "title_long_prefix": "No dudes en",
+                "title_long": "{{Contácta}}me"
+            },
+            "fr": {
+                "title_short": "Contact",
+                "title_short_nav": "Contact",
+                "title_long_prefix": "N'hésitez pas à",
+                "title_long": "Me {{Contacter}}"
+            },
+            "ko": {
+                "title_short": "연락처",
+                "title_short_nav": "연락처",
+                "title_long_prefix": "주저하지 말고",
+                "title_long": "{{연락}} 주세요"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 2,
+            "component": "ArticleInfoList",
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "faIcon": "fa-solid fa-phone",
+                    "faIconColors": { "bg": "", "fill": "" },
+                    "label": "+98 9909633934",
+                    "link": {"href": "tel:11234567890", "tooltipString": "call_me"},
+                    "locales": {
+                        "en": {"title": "Phone"}
+                    }
+                },
+                {
+                    "id":2,
+                    "faIcon": "fa-solid fa-envelope",
+                    "faIconColors": { "bg": "", "fill": "" },
+                    "label": "darwvin@hotmail.com",
+                    "link": {"href": "mailto:darwvin@hotmail.com", "tooltipString": "email_me"},
+                    "locales": {
+                        "en": {"title": "E-mail"}
+                    }
+                },
+                {
+                    "id": 3,
+                    "faIcon": "fa-brands fa-linkedin",
+                    "faIconColors": { "bg": "", "fill": "" },
+                    "label": "@darw-vin-a75a88388",
+                    "link": {"href": "https://linkedin.com/in/", "tooltipString": "open_website"},
+                    "locales": {
+                        "en": {"title": "LinkedIn"}
+                    }
+                }
+            ]
+        }
+    ]
+}
